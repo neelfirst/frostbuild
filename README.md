@@ -21,12 +21,15 @@ Print 6 of these. Use a label maker to identify which tiles go where. I've found
 
 ### Monster Holders
 There is a small errata here - the small monster box only fits Abael Herders 1-4. Place 5-6 in the overflow box (along wiht the water tiles). If you actually ever end up needing them, well, don't actually waste your time telling me.
+
 [TODO] provide lid inserts with what goes where
 - Small Monster Box
 - Large Monster Box
 
 ### Card Holders
-I cut up a bunch of [index card sorters](https://www.amazon.com/OFFILICIOUS-Manila-Index-Card-Dividers/dp/B0C9PXV3JC/) to serve as dividers for both small and large card sorters. I haven't completed the game so I can't guarantee these will accommodate any cards yet unrevealed. But it does accommodate everything from the base set as well as envelope B so far. I was desperately trying to get these to print in ABS and kept getting unresolvable warp issues. ABS slurry ruined my first PEI sheet and neither glue stick nor design modifications were sufficient to get good global adhesion. I've left the various design artifacts I tried in these models because screw it, I'm done.
+I cut up a bunch of [index card sorters](https://www.amazon.com/OFFILICIOUS-Manila-Index-Card-Dividers/dp/B0C9PXV3JC/) to serve as dividers for both small and large card sorters. I haven't completed the game so I can't guarantee these will accommodate any cards yet unrevealed. But it does accommodate everything from the base set as well as envelope B so far.
+
+I was desperately trying to get these to print in ABS and kept getting unresolvable warp issues. ABS slurry ruined my first PEI sheet and neither glue stick nor design modifications were sufficient to get good global adhesion. I've left the various design artifacts I tried in these models because screw it, I'm done.
 - Small Card Holder
 - Large Card Holder
 
