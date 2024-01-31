@@ -23,7 +23,7 @@ Tile Divisions | Photo
 01-02<br><br>03-05<br><br>06-08<br><br>09-11<br><br>12-13<br><br>14-16 | ![map tile holders](./images/map_tile_holders.jpg)
 
 ### Monster Holders
-There is a small errata here - the small monster box only fits Abael Herders 1-4. Place 5-6 in the overflow box (along wiht the water tiles). If you actually ever end up needing them, well, don't actually waste your time telling me.
+Note that the inserts are printed *mirrored* such that opening the box as below results in a direct visual mapping. There is a small errata here - the small monster box only fits Abael Herders 1-4. Place 5-6 in the overflow box (along with the water tiles). If you actually ever end up needing them, well, sorry?
 
 #### Small Monster Box [(insert)](./docs/smb_insert.pdf)
 ![small monster box](./images/small_monster_box.jpg)
