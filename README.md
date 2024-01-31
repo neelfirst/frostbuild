@@ -25,9 +25,9 @@ Tile Divisions | Photo
 ### Monster Holders
 Note that the inserts are printed *mirrored* such that opening the box as below results in a direct visual mapping. There is a small errata here - the small monster box only fits Abael Herders 1-4. Place 5-6 in the overflow box (along with the water tiles). If you actually ever end up needing them, well, sorry?
 
-#### Small Monster Box [(insert)](./docs/smb_insert.pdf)
+#### Small Monster Box [(insert)](./docs/inserts.pdf)
 ![small monster box](./images/small_monster_box.jpg)
-#### Large Monster Box [(insert)](./docs/lmb_insert.pdf)
+#### Large Monster Box [(insert)](./docs/inserts.pdf)
 ![large monster box](./images/large_monster_box.jpg)
 
 ### Card Holders
