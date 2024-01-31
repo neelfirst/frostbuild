@@ -17,12 +17,10 @@ NB this organization system assumes you are using the (most excellent) [xHaven a
 
 ### Map Tile Holder
 Print 6 of these. Use a label maker to identify which tiles go where. I've found the following division to work quite well.
-- 01-02
-- 03-05
-- 06-08
-- 09-11
-- 12-13
-- 14-16
+
+Tile Divisions | Photo
+:-------------:|------
+01-02<br><br>03-05<br><br>06-08<br><br>09-11<br><br>12-13<br><br>14-16 | ![map tile holders](./images/map_tile_holders.jpg)
 
 ### Monster Holders
 There is a small errata here - the small monster box only fits Abael Herders 1-4. Place 5-6 in the overflow box (along wiht the water tiles). If you actually ever end up needing them, well, don't actually waste your time telling me.
