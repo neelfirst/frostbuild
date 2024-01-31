@@ -7,6 +7,9 @@ Inspired by the [Folded Space Map Tile Organizer](https://www.foldedspace.net/st
 NB this organization system assumes you are using the (most excellent) [xHaven assistant app](https://apps.apple.com/us/app/x-haven-assistant/id1639494414) to track monster actions. My status tokens and monster stat cards sit comfortably in their original wrapping as my busy crew and I save about an hour of work. We also don't use the player wheels but you could toss those in here relatively easily. Remaining utility items (standee holders, loot/chest tokens, damage/number/letter tokens) sit loosely in their own bags as they are used every time anyways.
 
 ## assembly
+Much of this box bulge comes from prior implementations of this build system. Map tile 12 in particular likes to rest a touch wider than the box and its corners may fray as a result. Use a tape guard to protect these corners.
+
+A lot of this box organization can be rearranged to your liking. I've had the books at the edge of the box as well, mixed around player and tile boxes, etc. 
 
 ![top level box](./images/top_level.jpg)
 ![second level box](./images/upper_interior.jpg)
