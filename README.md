@@ -1,5 +1,5 @@
 # frostbuild
-STLs and documentation for my Frosthaven organization system.
+STLs and documentation for my Frosthaven organization system. [thingiverse](https://www.thingiverse.com/thing:6462347/)
 
 ## overview
 Inspired by the [Folded Space Map Tile Organizer](https://www.foldedspace.net/store/frosthaven-map-archive/), but not wishing to actually purchase the product, I set out to design my own [Frosthaven](https://cephalofair.com/collections/board-games/products/frosthaven-bundles) organization system. What started as a 3D printing experiment led to a big old rabbit hole of placement, rendering, material optimization, and [why oh why does ABS never stick properly](https://www.reddit.com/r/3Dprinting/comments/cza9o3/comment/eyx3e02/)! Needless to say I learned a lot about 3D printing, mechanical design, Fusion 360 workflows, and [blobs of death](https://www.reddit.com/r/prusa3d/comments/rh05cy/how_the_hell_do_i_avoid_the_blob_of_death/). Anyways, now I'm done, and you may view my work.
