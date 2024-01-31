@@ -42,15 +42,28 @@ I was desperately trying to get these to print in ABS and kept getting unresolva
 ![large card box](./images/large_card_box.jpg)
 
 ### Tile Overlay Holders
-[TODO] provide photos
-- Hex: All 1-hex and 2-hex tiles go here. The lid is oriented with the dividers in the box.
-- Fab: Constructed obstacles (e.g. altars, bookcases) go here. Doors also go in this one.
-- Trap: All hazardous / difficult terrain go here. 1-hex obstacle rubble goes here as well.
-- Misc: The remaining 2-hex tiles, ice/snow stuff, all go in here.
-- Overflow / Boss: The overflow side is for water tiles and all other 3-hex tiles. The Boss side is for bosses.
+
+#### Hex
+All 1-hex and 2-hex tiles go here. The lid is oriented with the dividers in the box.
+![hex tile box](./images/hex_tile_box.jpg)
+#### Fab
+Constructed obstacles (e.g. altars, bookcases) go here. Doors also go in this one.
+![fab tile box](./images/fab_tile_box.jpg)
+#### Trap
+All hazardous / difficult terrain go here. 1-hex obstacle rubble goes here as well.
+![trap tile box](./images/trap_tile_box.jpg)
+#### Misc
+The remaining 2-hex tiles, ice/snow stuff, all go in here.
+![misc tile box](./images/misc_tile_box.jpg)
+#### Overflow / Boss
+The overflow side is for water tiles and all other 3-hex tiles. The Boss side is for bosses (and those extra couple Abael Herders).
+![boss overflow box](./images/boss_overflow_box.jpg)
   
 ### Player Boxes
-Print 4 of these. While I haven't yet unlocked all classes, so far these boxes have accommodated fully sleeved player decks, mod decks, minifigs, and summon tokens for Boneshaper and Banner Spear.
+Print 4 of these. While I haven't yet unlocked all classes, so far these boxes have accommodated fully sleeved player decks, mod decks, minifigs, and summon tokens for Boneshaper and Banner Spear. The character sheet and information tile act as a fitted lid to the box.
+![player box exterior](./images/player_box_exterior.jpg)
+![player box interior](./images/player_box_interior.jpg)
 
 ### Minifig Tray
 Just a simple tray to keep the minifig boxes together while stuff goes in and out of the box.
+![minifig tray](./images/minifig_tray.jpg)
